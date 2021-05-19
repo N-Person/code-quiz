@@ -1,8 +1,10 @@
+# Brian Morgan
+
 # **Homework 4**
 # Code-Quiz
 
 ![HW4 SS](code-quiz.png)
 
-1. [title](https://www.example.com)
-2. [title](https://www.example.com)
+1. [GitHub](https://github.com/N-Person/code-quiz)
+2. [GitHub IO](https://n-person.github.io/code-quiz/)
 
