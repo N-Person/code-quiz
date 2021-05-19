@@ -21,7 +21,7 @@ function startQuiz() {
 
 function getQuestion() {
     var currentQuestion = questions[currentQuestionIndex];
-    var titleEl = getElementById("question-title");
+    var titleEl = document.getElementById("question-title");
     titleEl.textContent = currentQuestion.title;
     choicesEl.innerHTML = "";
 
@@ -101,4 +101,4 @@ function checkForEnter(event) {
 
 submitBtn.onclick = saveHighscore;
 startBtn.onclick = startQuiz;
-initials.El.onkeyup = checkForEnter;
+initialsEl.onkeyup = checkForEnter;
